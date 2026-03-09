@@ -13,5 +13,6 @@ Contenuti dell'esercizio:
 ## Come eseguire
 
 1. Apri `index.html` nel browser
-2. Premi F12 per aprire la console
-3. Ricarica la pagina e osserva i valori stampati
+2. Premi il tasto ispeziona
+3. Aprire la console
+4. Osserva i valori stampati
