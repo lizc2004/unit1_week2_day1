@@ -70,4 +70,4 @@ let name2 = "John";
 let isDifferent = name1 !== name2; // Verifica che name1 sia diversa da name2
 console.log(isDifferent); // Output: true
 
-consol.log = ( name1 === name2.tolowercase() )// "john" === "john" --> true
+console.log = ( name1 === name2.toLowerCase() )// "john" === "john" --> true
