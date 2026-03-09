@@ -32,7 +32,9 @@ let myName = "Noemi";
 */
 
 /* SCRIVI QUI LA TUA RISPOSTA */
-let sum = 12 + 20;
+let a = 12
+let b = 20
+let sum = a + b;
 
 /* ESERCIZIO 4
  Crea una variable di nome "x" e assegna ad essa il numero 12.
@@ -54,7 +56,7 @@ myName = "Coppotelli";
 */
 
 /* SCRIVI QUI LA TUA RISPOSTA */
-let sottrazione 
+let sottrazione = x - 4
 
 /* ESERCIZIO 7
  Crea due variabili: "name1" e "name2". Assegna a name1 la stringa "john", e assegna a name2 la stringa "John" (con la J maiuscola!).
